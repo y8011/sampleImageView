@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
 //        myImageView.image = UIImage(named: "nobita.jpg")
+        // なにか変更
     }
 
     @IBAction func tapButton(_ sender: UIButton) {
